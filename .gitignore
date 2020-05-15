@@ -1,0 +1,8 @@
+# project files
+.spyproject
+
+# test images
+*.png
+
+# recorded video
+*.avi
